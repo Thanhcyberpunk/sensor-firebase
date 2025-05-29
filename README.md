@@ -7,7 +7,7 @@ Ideal for smart home, greenhouse, or IoT-based automation systems.
 ## 🖼️ App UI & Hardware Connection
 <p align="center">
   <img src="https://github.com/Thanhcyberpunk/sensor-firebase/blob/master/img/giaodien.png" width="300"/>
-  <img src="https://github.com/Thanhcyberpunk/sensor-firebase/blob/master/img/sodo.png" width="300"/>
+  <img src="https://github.com/Thanhcyberpunk/sensor-firebase/blob/master/img/sodo.png" width="400" height="600"/>
 </p>
 
 ## 🔥 Key Features
